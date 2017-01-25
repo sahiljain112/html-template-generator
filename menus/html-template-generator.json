@@ -2,8 +2,8 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Toggle html-template-generator",
-        "command": "html-template-generator:toggle"
+        "label": "Generate HTML Template",
+        "command": "html-template-generator:generate"
       }
     ]
   },
@@ -15,8 +15,8 @@
           "label": "html-template-generator",
           "submenu": [
             {
-              "label": "Toggle",
-              "command": "html-template-generator:toggle"
+              "label": "Generate HTML Template",
+              "command": "html-template-generator:generate"
             }
           ]
         }

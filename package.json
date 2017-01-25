@@ -6,7 +6,7 @@
   "keywords": [
   ],
   "activationCommands": {
-    "atom-workspace": "html-template-generator:toggle"
+    "atom-workspace": "html-template-generator:generate"
   },
   "repository": "https://github.com/atom/html-template-generator",
   "license": "MIT",
