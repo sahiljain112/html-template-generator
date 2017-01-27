@@ -3,6 +3,63 @@
 // See https://github.com/atom/atom-dark-ui/blob/master/styles/ui-variables.less
 // for a full listing of what's available.
 @import "ui-variables";
+body {
+  background-color: white;
+}
 
-.html-template-generator {
+.form_title {
+  text-align: center;
+  font-family: 'Montserrat', Helvetica, sans-serif;
+  font-weight: 100;
+  padding: 0.1rem;
+  font-size: 1.6rem;
+  margin-left: 1rem;
+}
+
+form {
+  border: 0.1rem solid #000;
+  padding: 1rem;
+  border-radius: 0.5rem;
+  margin: 1rem;
+}
+
+input[type=checkbox]{
+  margin-right: 0.5rem;
+}
+
+span {
+   font-size: 1.2rem;
+   font-family: Helvetica;
+   font-weight: 200;
+}
+
+input[type=text] {
+  display: block;
+  margin: 0.4rem 0 1.6rem;
+}
+
+input[type=checkbox]:checked + input {
+  border: 5px solid #000;
+}
+
+.generate_button, .close_button {
+  height: 2rem;
+  text-align: center;
+  font-size: 1rem;
+  font-family: Helvetica;
+  border: 1px solid white;
+  background-color: #0a468f;
+  color: white;
+  border-radius: 0.5rem;
+}
+
+.close_button {
+  margin-right: 1rem;
+}
+
+.header_wrapper {
+  display: flex;
+  width:100%;
+  text-align: center;
+  justify-content: space-between;
 }
