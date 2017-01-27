@@ -1,5 +1,5 @@
 {
   "atom-workspace": {
-    "ctrl-alt-o": "html-template-generator:toggle"
+    "ctrl-alt-o": "html-template-generator:generate"
   }
 }
