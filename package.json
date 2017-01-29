@@ -13,6 +13,7 @@
   "activationCommands": {
     "atom-workspace": "html-template-generator:generate"
   },
+  "homepage": "https://atom.io/packages/html-template-generator",
   "repository": "https://github.com/sahiljain112/html-template-generator",
   "license": "MIT",
   "engines": {
