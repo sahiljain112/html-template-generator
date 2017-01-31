@@ -3,13 +3,16 @@
   "main": "./lib/html-template-generator",
   "version": "0.1.0",
   "description": "HTML template generator for Atom text editor",
+  "scripts": {
+    "test": "atom --test --timeout 60 ./spec/html-template-generator-spec.js ./spec/html-template-generator-view-spec.js"
+  },
   "keywords": [
     "atom",
     "html",
     "template",
     "generator"
   ],
-  "author": "Sahil Jain",
+  "author": "Sahil Jain (sahiljain112@gmail.com)",
   "activationCommands": {
     "atom-workspace": "html-template-generator:generate"
   },
