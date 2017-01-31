@@ -11,7 +11,7 @@ Install using Atom's package installer or simply run the command
 
 ### Generating the template
 
-![Demo](http://im2.ezgif.com/tmp/ezgif.com-f957107a54.gif)
+![Demo](https://github.com/sahiljain112/html-template-generator/raw/master/gifs/demo.gif)
 
 1. To generate a template, create a file and open it in atom.
 2. Run the command `ctrl-alt-l`. A form will appear on the screen.
