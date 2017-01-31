@@ -1,6 +1,7 @@
 # Html Template Generator
 
 [![Build Status](https://travis-ci.org/sahiljain112/html-template-generator.svg?branch=master)](https://travis-ci.org/sahiljain112/html-template-generator)
+
 HTML template generator for Atom text editor. An easy way to generate a customized Html file.
 
 ### Installation
