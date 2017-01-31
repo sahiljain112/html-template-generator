@@ -1,5 +1,7 @@
 # Html Template Generator
 
+![apm](https://img.shields.io/apm/v/html-template-generator.svg)
+![apm](https://img.shields.io/apm/dm/html-template-generator.svg)
 [![Build Status](https://travis-ci.org/sahiljain112/html-template-generator.svg?branch=master)](https://travis-ci.org/sahiljain112/html-template-generator)
 
 HTML template generator for Atom text editor. An easy way to generate a customized Html file.
