@@ -12,8 +12,13 @@ Install using Atom's package installer or simply run the command
 ```
   apm install html-template-generator
 ```
+### Quick Generate
+![Demo quick generate](https://github.com/sahiljain112/html-template-generator/raw/master/gifs/quick.png)
 
-### Generating the template
+1. To quickly generate a template, open up the root folder in atom.
+2. Enter `ctrl-alt-k`. An index.html file will be generated with default values.
+
+### Generating custom template
 
 ![Demo](https://github.com/sahiljain112/html-template-generator/raw/master/gifs/demo.png)
 

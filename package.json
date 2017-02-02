@@ -14,7 +14,10 @@
   ],
   "author": "Sahil Jain (sahiljain112@gmail.com)",
   "activationCommands": {
-    "atom-workspace": "html-template-generator:generate"
+    "atom-workspace": [
+      "html-template-generator:quick-generate",
+      "html-template-generator:generate"
+    ]
   },
   "homepage": "https://atom.io/packages/html-template-generator",
   "repository": "https://github.com/sahiljain112/html-template-generator",
@@ -23,6 +26,7 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
-    "etch": "^0.8.0"
+    "etch": "^0.8.0",
+    "touch": "^1.0.0"
   }
 }

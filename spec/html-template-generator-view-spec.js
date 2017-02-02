@@ -1,5 +1,5 @@
 'use babel';
-// Tests cases will be generated in release 0.3.0
+// Tests cases will be generated in release 0.4.0
 // import HtmlTemplateGeneratorView from '../lib/html-template-generator-view';
 //
 // describe('HtmlTemplateGeneratorView', () => {
