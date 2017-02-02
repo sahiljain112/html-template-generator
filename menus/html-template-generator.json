@@ -12,11 +12,15 @@
       "label": "Packages",
       "submenu": [
         {
-          "label": "html-template-generator",
+          "label": "HTML Template Generator",
           "submenu": [
             {
               "label": "Generate HTML Template",
               "command": "html-template-generator:generate"
+            },
+            {
+              "label": "Quick Generate HTML Template",
+              "command": "html-template-generator:quick-generate"
             }
           ]
         }
